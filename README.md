@@ -30,7 +30,7 @@ Existing autonomous driving datasets are pre- dominantly oriented towards well-s
 
 ## Data
 - Images, `calib.txt`, metadata (`.pkl`) on [Hugging Face](https://huggingface.co/datasets/DarrylT/PanopticCUDAL/tree/main).
-- LiDAR, labels, panoptic, poses on [RWTH server](https://omnomnom.vision.rwth-aachen.de/data/panoptic-cudal/).
+- LiDAR, labels, poses on [RWTH server](https://omnomnom.vision.rwth-aachen.de/data/panoptic-cudal/).
 
 The dataset is organized in a directory structure in SemanticKITTI format:
 ```tree

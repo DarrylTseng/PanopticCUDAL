@@ -16,10 +16,6 @@
 
 <p align="center">
   <a href="https://github.com/DarrylTseng/PanopticCUDAL/blob/main/combined_8views_30s.mp4">
-    <img src="assets/teaser.png" alt="PanopticCUDAL teaser" width="800">
-  </a>
-  <br>
-  <em>PanopticCUDAL teaser: 8 synchronized views from rural Australian driving.</em>
 </p>
 
 

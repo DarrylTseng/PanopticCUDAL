@@ -14,11 +14,12 @@
 
 [Panoptic Autonomous Driving Dataset for Rural Rainy Environments](https://arxiv.org/abs/2503.16378v2). This paper is accepted to [IEEE ITSC 2025](https://ieee-itsc.org/2025/).
 
-<p align="center">
-  <a href="https://github.com/DarrylTseng/PanopticCUDAL/blob/main/combined_8views_30s.mp4">
-  </a>
-</p>
 
+<p align="center">
+  <img src="combined_8views_teaser.gif" alt="PanopticCUDAL teaser" width="800">
+  <br>
+  <em>PanopticCUDAL teaser: 8 synchronized views from rural Australian driving.</em>
+</p>
 
 </div>
 <br><br>

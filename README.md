@@ -21,7 +21,6 @@
   </video>
 </p>
 
-
 </div>
 <br><br>
 
@@ -74,7 +73,7 @@ python proj_label.py
 
 For inference, our code is based on [FRNet](https://github.com/Xiangxu-0103/FRNet).
 ```bash
-python visualize_bev_labels.py --velodyne_dir /path/to/PanopticCUDAL/sequences/34/velodyne --label_dir /path/to/FRNet/predictions/34 --vis pred --out_dir /path/to/output/vis/04 --video_name pred_04.mp4 --fps 10
+python visualize.py --velodyne_dir /path/to/PanopticCUDAL/sequences/34/velodyne --label_dir /path/to/FRNet/predictions/34 --vis pred --out_dir /path/to/output/vis/04 --video_name pred_04.mp4 --fps 10
 ```
 
 ## Acknowledgement

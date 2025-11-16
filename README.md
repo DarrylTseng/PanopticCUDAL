@@ -14,6 +14,17 @@
 
 [Panoptic Autonomous Driving Dataset for Rural Rainy Environments](https://arxiv.org/abs/2503.16378v2). This paper is accepted to [IEEE ITSC 2025](https://ieee-itsc.org/2025/).
 
+<p align="center">
+  <video src="combined_8views_30s.mp4" controls width="720">
+    Your browser doesn’t support embedded video.
+    Here’s a <a href="combined_8views_30s.mp4">direct link to the MP4</a>.
+  </video>
+</p>
+
+
+</div>
+<br><br>
+
 ## About
 
 Existing autonomous driving datasets are pre- dominantly oriented towards well-structured urban settings and favourable weather conditions, leaving the complexities of rural environments and adverse weather conditions largely unaddressed. Although some datasets encompass variations in weather and lighting, bad weather scenarios do not appear often. Rainfall can significantly impair sensor functionality, introducing noise and reflections in LiDAR and camera data and reducing the system’s capabilities for reliable environmental perception and safe navigation. This paper introduces the Panoptic-CUDAL dataset, a novel dataset purpose-built for panoptic segmentation in rural areas subject to rain. By recording high-resolution LiDAR, camera, and pose data, Panoptic-CUDAL offers a diverse, information-rich dataset in a challenging scenario. We present the analysis of the recorded data and provide baseline results for panoptic, se- mantic segmentation, and 3D occupancy prediction methods on LiDAR point clouds.

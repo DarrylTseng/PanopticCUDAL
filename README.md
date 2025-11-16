@@ -17,8 +17,6 @@
 
 <p align="center">
   <img src="combined_8views_teaser.gif" alt="PanopticCUDAL teaser" width="800">
-  <br>
-  <em>PanopticCUDAL teaser: 8 synchronized views from rural Australian driving.</em>
 </p>
 
 </div>

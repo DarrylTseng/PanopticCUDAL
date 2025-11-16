@@ -24,7 +24,7 @@
 
 ## About
 
-Existing autonomous driving datasets are pre- dominantly oriented towards well-structured urban settings and favourable weather conditions, leaving the complexities of rural environments and adverse weather conditions largely unaddressed. Although some datasets encompass variations in weather and lighting, bad weather scenarios do not appear often. Rainfall can significantly impair sensor functionality, introducing noise and reflections in LiDAR and camera data and reducing the system’s capabilities for reliable environmental perception and safe navigation. This paper introduces the Panoptic-CUDAL dataset, a novel dataset purpose-built for panoptic segmentation in rural areas subject to rain. By recording high-resolution LiDAR, camera, and pose data, Panoptic-CUDAL offers a diverse, information-rich dataset in a challenging scenario. We present the analysis of the recorded data and provide baseline results for panoptic, se- mantic segmentation, and 3D occupancy prediction methods on LiDAR point clouds.
+Existing autonomous driving datasets are predominantly oriented towards well-structured urban settings and favourable weather conditions, leaving the complexities of rural environments and adverse weather conditions largely unaddressed. Although some datasets encompass variations in weather and lighting, bad weather scenarios do not appear often. Rainfall can significantly impair sensor functionality, introducing noise and reflections in LiDAR and camera data and reducing the system’s capabilities for reliable environmental perception and safe navigation. This paper introduces the Panoptic-CUDAL dataset, a novel dataset purpose-built for panoptic segmentation in rural areas subject to rain. By recording high-resolution LiDAR, camera, and pose data, Panoptic-CUDAL offers a diverse, information-rich dataset in a challenging scenario. We present the analysis of the recorded data and provide baseline results for panoptic, se- mantic segmentation, and 3D occupancy prediction methods on LiDAR point clouds.
 
 ## Data
 - Images, `calib.txt`, metadata (`.pkl`) on [Hugging Face](https://huggingface.co/datasets/DarrylT/PanopticCUDAL/tree/main).
@@ -81,7 +81,7 @@ We gratefully acknowledge the open-source communities whose tools, datasets and 
 ## BibTeX
 ```
 @article{tseng2025panoptic,
-  title={Panoptic-CUDAL Technical Report: Rural Australia Point Cloud Dataset in Rainy Conditions},
+  title={Panoptic-CUDAL: Rural Australia Point Cloud Dataset in Rainy Conditions},
   author={Tseng, Tzu-Yun and Nekrasov, Alexey and Burdorf, Malcolm and Leibe, Bastian and Berrio, Julie Stephany and Shan, Mao and Ming, Zhenxing and Worrall, Stewart},
   journal={IEEE International Conference on Intelligent Transportation Systems (ITSC)},
   url={https://arxiv.org/abs/2503.16378v2}

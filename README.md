@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/DarrylTseng/PanopticCUDAL/blob/main/combined_8views_30s.mp4">
+  </a>
 </p>
 
 
